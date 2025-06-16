@@ -101,8 +101,8 @@
     <img src="https://user-images.githubusercontent.com/91544028/253814269-9c8eff65-6f72-424a-939c-e2baefe74ac7.gif" width=40px height=40px> Education
   </h3>
   <ul>
-    <li>Singapore University of Technology and Design (SUTD) - Bachelor of Engineering in Computer Science and Design (Expected Graduation: YYYY)</li>
-    <li>Relevant coursework: [List 2-3 key relevant courses e.g., Data Structures & Algorithms, Software Engineering, Database Systems, UI/UX Design]</li>
+    <li>Singapore University of Technology and Design (SUTD) - Bachelor of Engineering in Computer Science and Design (Expected Graduation: 2027)</li>
+    <li>Relevant coursework: Data Structures & Algorithms, Software Engineering, Cybersecurity, Machine Learning</li>
   </ul>
 </div>
 
