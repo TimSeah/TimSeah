@@ -14,7 +14,7 @@
     <br>
     I'm passionate about leveraging AI technology to create innovative and user-centric solutions. My current interests lie in full-stack development, cybersecurity and exploring AI applications.
     <br>
-    🔭 I’m currently working on the <strong><a href="https://github.com/lolkabash/til-25-data-chefs">DSTA BrainHack 2025 TIL-AI Hackathon</a></strong>.
+    🔭 I’m currently working on the <strong><a href="https://github.com/TimSeah/til-25-data-chefs">DSTA BrainHack 2025 TIL-AI Hackathon</a></strong>.
   </p>
   <p align=center>
     <!-- Optional: Add a link to a portfolio or key project here -->
@@ -119,10 +119,10 @@
 <!-- Github stats section -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000"> <!-- Separator GIF -->
 <p align=center>
-  <img src="https://komarev.com/ghpvc/?username=lolkabash&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views for lolkabash" />
+  <img src="https://komarev.com/ghpvc/?username=TimSeah&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views for TimSeah" />
 </p>
 <p align=center>
-  <img src="https://github-readme-stats.vercel.app/api?username=lolkabash&show_icons=true&theme=tokyonight&rank_icon=github" alt="lolkabash's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TimSeah&show_icons=true&theme=tokyonight&rank_icon=github" alt="TimSeah's GitHub stats"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lolkabash&layout=compact&theme=tokyonight" alt="lolkabash's Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TimSeah&layout=compact&theme=tokyonight" alt="TimSeah's Top Languages"/>
 </p>
